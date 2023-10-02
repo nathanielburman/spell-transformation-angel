@@ -42,12 +42,12 @@ my Halos
 1. serious
 2. different
 3. same
-special
+4. special
 5. fear
-concern
-carefree
-rage
-jeleous
+6. concern
+7. carefree
+8. rage
+9. jeleous
 10. pride
 11. confidence
 12. not serious
