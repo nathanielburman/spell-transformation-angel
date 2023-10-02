@@ -52,3 +52,26 @@ my Halos
 11. confidence
 12. not serious
 
+my Horns
+2 goat horns
+2 rams horns
+2 wood horns
+2 irory horns
+2 rhino horns
+2 hippo teeth horns
+2 elk horns
+
+Clothing
+i wear light and robes
+
+Additionals
+1 sword of fire
+1 hetero sword
+1 hetero sword quantum cooy
+1 special sword 2020
+1 short blade
+infinite hanging blades
+1 mouth covering
+
+
+
