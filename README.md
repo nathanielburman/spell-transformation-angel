@@ -27,6 +27,7 @@ i have wings on my feet
 infinite spines (spaghetti sea urchin)
 infinite hair wings
 infinite water wings
+snow angel wings super fluffy
 ...i have more wings
 
 
